@@ -1,0 +1,9 @@
+version=1
+id=2845565090
+title=Valhalla Aegis: Sledgehammer Whitelist Addon
+description=An addon for Valhalla Aegis that lets you configure a whitelist of items that are permitted to be sledgehammered by users.
+description=
+description=Valhalla Aegis (by bikinihorst) can be found here:
+description=https://steamcommunity.com/sharedfiles/filedetails/?id=2694358451
+tags=Build 41;Balance;Multiplayer
+visibility=unlisted

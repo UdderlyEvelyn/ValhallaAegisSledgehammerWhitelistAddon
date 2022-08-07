@@ -1,0 +1,4 @@
+Sandbox_EN = {
+	Sandbox_VA_SledgehammerWhitelist = "Sledgehammer Whitelist",
+	Sandbox_VA_SledgehammerWhitelist_tooltip = "Semicolon-delimited list of things that can be sledgehammered as exceptions to the container protection system.",
+}

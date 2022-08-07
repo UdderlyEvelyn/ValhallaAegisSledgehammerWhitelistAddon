@@ -1,0 +1,8 @@
+VERSION = 1,
+
+option ValhallaAegis.SledgehammerWhitelist = {
+	type = string, 
+	default = location_shop_mall_01_18,
+	page = ValhallaCP, 
+	translation = VA_SledgehammerWhitelist,
+}
