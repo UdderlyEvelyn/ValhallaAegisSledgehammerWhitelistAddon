@@ -13,7 +13,7 @@ end
 
 Valhalla.ContainerProtection["allowObjectDestruction"] = 
 	function(self, object, player, mode)
-		if Valhalla:userIsRestricted() --if they aren't an admin
+		if Valhalla:userIsRestricted() then --if they aren't an admin
 			if not Valhalla:squareIsInSafehouse(object:getSquare()) then --if we're *not* in a safehouse, then the whitelist applies
 				local objectName = object:getSprite():getName()				
 				--print("[ValhallaAegis] Checking if \""..objectName.."\" is on the sledgehammer whitelist..")
